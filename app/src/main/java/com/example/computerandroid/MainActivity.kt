@@ -1,4 +1,4 @@
-package com.example.compteurandroid
+package com.example.computerandroid
 
 import android.os.Bundle
 import android.widget.Button
